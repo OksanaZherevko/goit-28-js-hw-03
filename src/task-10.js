@@ -25,8 +25,8 @@ for (const key in apartment) {
   keys.push(key);
   values.push(apartment[key]);
 }
-console.log(keys);
-console.log(values);
+// console.log(keys);
+// console.log(values);
 
 
 // Задание
